@@ -1,6 +1,6 @@
 function sayHello(name, surname) {
     // Some comment
-    console.log(`${name} ${surname}`);
+    console.log(`Hewllo ${name} ${surname}`);
 }
 //end function
 
